@@ -7,7 +7,7 @@ Embedding-based Zero-shot Retrieval through Query Generation leverages query syn
 This package provides support for leveraging BART-large for query synthesis as well as code for training and finetuning a transformer based neural retriever.
 We also provide pre-generated synthetic queries on Wikipedia, and relevant pre-trained models that are obtainable through our download scripts.
 
-![neural-retrieval](neural-retrieval.png =500x)
+<p align=center><img src="neural-retrieval.png" width="650px"></p>
 
 **Paper:** Davis Liang\*, Peng Xu\*, Siamak Shakeri, Cicero Nogueira dos Santos, Ramesh Nallapati, Zhiheng Huang, Bing Xiang, [Embedding-based Zero-shot Retrieval through Query Generation](https://arxiv.org/pdf/2009.10270.pdf), 2020.
 

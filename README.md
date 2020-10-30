@@ -27,8 +27,8 @@ We also provide pre-generated synthetic queries on Wikipedia, and relevant pre-t
 
 ### WikiGQ dataset and Pretrained Neural Retrieval Model
 - **WikiGQ**: We process the Wikipedia 2016 dump and split it into passages of maximum length 100 with respecting the sentence boundaries. We synthesis over 100M synthetic queries using BART-large models. 
-The split passage files can be downloaded from [here](TO ADD). The synthetic queries can be downloaded from [here](TO ADD). 
-- **Siamese-BERT-base-model**: We release our siamese-bert-base-model trained on `WikiGQ` dataset. The model files can be downloaded from [here](TO ADD).     
+The split passages and synthetic queries files can be downloaded from [here](https://repo.gluon.ai/gluon/dataset/WikiGQ/WikiGQ.zip). 
+- **Siamese-BERT-base-model**: We release our siamese-bert-base-model trained on `WikiGQ` dataset. The model files can be downloaded from [here](https://repo.gluon.ai/gluon/models/siamese-bert-base-uncased-2ef0f73e8.zip).     
 
 
 ## Training and Evaluation
